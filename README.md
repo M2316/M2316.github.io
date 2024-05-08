@@ -1,1 +1,1 @@
-![blog](https://m2316.github.io)
+[blog](https://m2316.github.io)
