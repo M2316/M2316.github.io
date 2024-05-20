@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "114e3631bdec9537",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da0725f7b975341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74e85bc6dce22c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-05-로그인_프로세스_포스팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baa117594d4ff372",
+    "type": "split",
+    "children": [
+      {
+        "id": "74780fe330a0bebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572db3a9f8f7d7e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20194e568d4b3332",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de930b37f738df11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ce059c7b9da84a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "396c1d5a83e483e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7907332128b38f32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-05-05-로그인_프로세스_포스팅.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26cf152e0ff722c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-05-05-로그인_프로세스_포스팅.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2036e7af088139e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aad96deb4f227cd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-05-05-로그인_프로세스_포스팅.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "572db3a9f8f7d7e4",
+  "lastOpenFiles": [
+    "_posts/2024-05-10-OAuth_구글로_로그인_하기 - 이론.md",
+    "_posts/2024-05-10-OAuth_구글로_로그인_하기 - 실습.md",
+    "_posts/2024-05-06-JWT_로그인_로그아웃_예제_실습.md",
+    "_posts/2024-05-07-로그인_ 예제_실습.md",
+    "_posts/2024-05-05-로그인_프로세스_포스팅.md",
+    "_posts/2024-05-05-JWT_로그인_로그아웃.md",
+    "_site/images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/정보_공개범위_지정.png",
+    "images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/정보_공개범위_지정.png",
+    "_site/images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/콘솔에_프로젝트_생성.png",
+    "images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/콘솔에_프로젝트_생성.png",
+    "images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/google-콘솔-클릭.png",
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "_site/OAuth_구글로_로그인_하기-실습/index.html",
+    "_site/OAuth_구글로_로그인_하기-실습",
+    "_site/page2/index.html",
+    "_site/page2",
+    "_site/로그인_프로세스_포스팅/index.html",
+    "_site/로그인_프로세스_포스팅",
+    "_site/로그인_-예제_실습/index.html",
+    "_site/로그인_-예제_실습",
+    "_site/OAuth_구글로_로그인_하기-이론/index.html",
+    "_site/OAuth_구글로_로그인_하기-이론",
+    "_site/images/2024-05-10-OAuth_구글로_로그인_하기 - 실습/google-콘솔-클릭.png",
+    "_site/images/2024-05-10-OAuth_구글로_로그인_하기/OAuth-작동방식.png",
+    "_site/images/2024-05-05-로그인_프로세스_포스틩/로그인로직-1715175550061-26.png",
+    "_site/2024-05-10-OAuth_구글로_로그인_하기 - 실습.md",
+    "무제 파일.md"
+  ]
+}
